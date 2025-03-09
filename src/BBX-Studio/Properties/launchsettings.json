@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "BBX-Studio (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "BBX-Studio (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
